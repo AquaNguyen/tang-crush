@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Ơ kìa, chúc mừng bạn đã rơi vào lâu đài tình ái 👏🏽👏🏽',
     messDesc: 'Đây là quà 👇🏽👇🏽👇🏽',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://drive.google.com/file/d/1zkfdEl2B5Ftx06pg64o4-cShX02j2dXV/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://drive.google.com/file/d/1V8oievU9WriQ-BXC07zB7-NdnKt0E35-/view?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
